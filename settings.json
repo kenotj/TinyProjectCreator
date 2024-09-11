@@ -1,0 +1,14 @@
+{
+  // Add your own project folders here, separated by commas
+  "Photos": ["1. INPUT", "2. WORKFILES", "3. EXPORT"],
+  "Videos": [
+    "1. INPUT",
+    "2. ELEMENTS",
+    "2. ELEMENTS\\TEMPLATES",
+    "2. ELEMENTS\\TEMPLATES\\WOAH",
+    "3. WORKFILES",
+    "4. REFS",
+    "5. SFX",
+    "6. EXPORT"
+  ]
+}
